@@ -1,0 +1,152 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "awards": "Activities and Leadership",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Sydney R. Lin",
+    "email": "sydney.lin12@gmail.com",
+    "phone": "7859794932",
+    "location": {
+      "address": "Seattle, WA"
+    },
+    "website": "https://www.linkedin.com/in/sydneylin12/"
+  },
+  "education": [
+    {
+      "institution": "University of Minnesota, Twin Cities",
+      "location": "Minneapolis, MN",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "Aug 2017",
+      "endDate": "Dec 2020",
+      "gpa": "3.77"
+    }
+  ],
+  "work": [
+    {
+      "company": "Qualtrics",
+      "location": "Seattle, WA",
+      "position": "Software Engineer II",
+      "website": "",
+      "startDate": "Oct 2022",
+      "highlights": [
+        " Contributed to deprecating a legacy dashboarding tool and launching critical React-based features.",
+        "Drove down data deletion KTLO minutes to 0 by seamlessly integrating into a CI/CD pipeline.",
+        "Championed an initiative to entirely deprecate a service afflicted with significant public information security vulnerability.",
+        ".Served as the project lead for the development of a streamlined dashboard question list, enhancing page navigation efficiency.",
+        "Engineered an operations dashboard during an engineering-wide code yellow, significantly improving response times to automated alerts.",
+        "Participated and presented in organization-wide design and Root Cause Analysis (RCA) reviews."
+      ],
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Spearheaded development of the 'Custom Metrics' feature, enabling users to apply mathematical operations on their survey reports..",
+        "Orchestrated cross-team collaboration, ensuring seamless communication and alignment, to drive the successful launch and approval of critical features.",
+        "Significantly optimized operational efficiency by partially automating a time-consuming data deletion process, reducing it to just 15-30 minutes of weekly maintenance.",
+        "Offered effective mentorship to two engineers, including one intern, empowering them to work independently and achieve self-sufficiency within just one quarter."
+      ],
+      "company": "Qualtrics",
+      "position": "Software Engineer I",
+      "location": "Seattle, WA",
+      "startDate": "Jan 2021",
+      "endDate": "Oct 2022"
+    },
+    {
+      "highlights": [
+        "Collaboratively designed a Unity-based VR surgeon simulator as part of a three-member team.",
+        "Led the complete software development lifecycle and successfully deployed the project to 35 production Oculus Quest units."
+      ],
+      "company": "Medtronic",
+      "position": "Software Engineering Intern",
+      "location": "Minneapolis, MN",
+      "startDate": "Jun 2020",
+      "endDate": "Aug 2020"
+    },
+    {
+      "highlights": [
+        "Contributed to a collaborative effort in the development of an online legal tool, providing support to solos and small law firms to level the playing field in legal services."
+      ],
+      "company": "Thomson Reuters",
+      "position": "Software Engineering Intern",
+      "location": "Eagan, MN",
+      "startDate": "May 2019",
+      "endDate": "Jan 2020"
+    },
+    {
+      "highlights": [
+        "Instructed algorithm and data structure labs and conducted regular office hours to support students' learning."
+      ],
+      "company": "University of Minnesota",
+      "position": "Teaching Assistant",
+      "location": "Minneapolis, MN",
+      "startDate": "Jan 2019",
+      "endDate": "Jan 2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "TypeScript, JavaScript, Java, C#, Python, Swift, HTML"
+      ]
+    },
+    {
+      "keywords": [
+        "React, Node, Express, AngularJS"
+      ],
+      "name": "Web Frameworks"
+    },
+    {
+      "keywords": [
+        "Docker, Jenkins, Nomad, Splunk, VictorOps, Grafana, Amplitude, Spinnaker"
+      ],
+      "name": "Operational Tooling"
+    },
+    {
+      "keywords": [
+        "Git, Gitlab, Mocha, Chai, Jest, Artifactory"
+      ],
+      "name": "Development Tooling"
+    },
+    {
+      "keywords": [
+        "SQL"
+      ],
+      "name": "Database Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PR Cam",
+      "keywords": [
+        "Swift, Apple Developer"
+      ],
+      "description": "Created a revenue-generating iOS app for simultaneous video recording with music on the App Store.",
+      "url": "https://github.com/sydneylin12/PR-Cam"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Personal Trainer",
+      "awarder": "University of Minnesota Recreation and Wellness",
+      "summary": "Provided personal training services for ten individual clients and led group training sessions for a group of eight participants.",
+      "date": "Aug 2019 - Aug 2020"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}

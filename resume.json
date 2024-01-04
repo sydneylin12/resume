@@ -4,7 +4,6 @@
     "work": "Experience",
     "education": "Education",
     "projects": "Projects",
-    "awards": "Activities and Leadership",
     "skills": "Skills"
   },
   "basics": {
@@ -132,12 +131,7 @@
     }
   ],
   "awards": [
-    {
-      "title": "Personal Trainer",
-      "awarder": "University of Minnesota Recreation and Wellness",
-      "summary": "Provided personal training services for ten individual clients and led group training sessions for a group of eight participants.",
-      "date": "Aug 2019 - Aug 2020"
-    }
+    {}
   ],
   "sections": [
     "templates",

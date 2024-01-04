@@ -10,7 +10,7 @@
   "basics": {
     "name": "Sydney R. Lin",
     "email": "sydney.lin12@gmail.com",
-    "phone": "7859794932",
+    "phone": "(785) 979-4932",
     "location": {
       "address": "Seattle, WA"
     },
@@ -35,19 +35,18 @@
       "website": "",
       "startDate": "Oct 2022",
       "highlights": [
-        " Contributed to deprecating a legacy dashboarding tool and launching critical React-based features.",
-        "Drove down data deletion KTLO minutes to 0 by seamlessly integrating into a CI/CD pipeline.",
-        "Championed an initiative to entirely deprecate a service afflicted with significant public information security vulnerability.",
-        ".Served as the project lead for the development of a streamlined dashboard question list, enhancing page navigation efficiency.",
-        "Engineered an operations dashboard during an engineering-wide code yellow, significantly improving response times to automated alerts.",
-        "Participated and presented in organization-wide design and Root Cause Analysis (RCA) reviews."
+        "Collaborated on a cross-functional platform team, overseeing multiple org contributions and taking ownership of microservices for report creation and presentation.",
+        "Reduced former customer data deletion KTLO minutes to 0 by seamlessly integrating into a CI/CD pipeline.",
+        "Championed an initiative to entirely deprecate a service afflicted with a significant public data security vulnerability.",
+        "Served as the project lead for the development of a streamlined dashboard table of contents, enhancing page navigation efficiency.",
+        "Engineered an operations dashboard during an engineering-wide code yellow, significantly improving response times to automated alerts and reducing initial triage time to under 5 minutes."
       ],
       "endDate": "Present"
     },
     {
       "highlights": [
-        "Spearheaded development of the 'Custom Metrics' feature, enabling users to apply mathematical operations on their survey reports..",
-        "Orchestrated cross-team collaboration, ensuring seamless communication and alignment, to drive the successful launch and approval of critical features.",
+        "Spearheaded development of the 'Custom Metrics' feature, enabling users to apply mathematical operations on their survey reports.",
+        "Orchestrated international, cross-team collaboration to drive the successful launch and approval of critical features for Qualtrics' 360 Feedback tool.",
         "Significantly optimized operational efficiency by partially automating a time-consuming data deletion process, reducing it to just 15-30 minutes of weekly maintenance.",
         "Offered effective mentorship to two engineers, including one intern, empowering them to work independently and achieve self-sufficiency within just one quarter."
       ],

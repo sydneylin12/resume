@@ -29,20 +29,33 @@
   ],
   "work": [
     {
-      "company": "Qualtrics",
+      "company": "Amazon Web Services (AWS)",
       "location": "Seattle, WA",
-      "position": "Software Engineer II",
+      "position": "Software Development Engineer II",
       "website": "",
-      "startDate": "Oct 2022",
+      "startDate": "Mar 2024",
       "highlights": [
-        " Contributed to deprecating a legacy dashboarding tool and launching critical React-based features.",
+        "Actively developed on a tier-1 internal tool which manages physical and virtual network link data.",
+        "Mitigated a critical data issue on missing link data by implementing an optimized traversal algorithm.",
+        "Quickly onboarded and participated in the weekly on-callrotation to alleviate operational load.",
+        "Contributed to an org-wide deprecation by migrating customer data from RDS to S3."
+      ],
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Contributed to deprecating a legacy dashboarding tool and launching critical React-based features.",
         "Drove down data deletion KTLO minutes to 0 by seamlessly integrating into a CI/CD pipeline.",
+        "Led a high-visibility project to improve adoption and enhance dashboard navigation across all types of dashboards.",
         "Championed an initiative to entirely deprecate a service afflicted with significant public information security vulnerability.",
-        ".Served as the project lead for the development of a streamlined dashboard question list, enhancing page navigation efficiency.",
         "Engineered an operations dashboard during an engineering-wide code yellow, significantly improving response times to automated alerts.",
         "Participated and presented in organization-wide design and Root Cause Analysis (RCA) reviews."
       ],
-      "endDate": "Present"
+      "company": "Qualtrics",
+      "position": "Software Engineer II",
+      "location": "Seattle, WA",
+      "startDate": "Oct 2022",
+      "endDate": "Mar 2024"
     },
     {
       "highlights": [
@@ -54,33 +67,12 @@
       "company": "Qualtrics",
       "position": "Software Engineer I",
       "location": "Seattle, WA",
-      "startDate": "Jan 2021",
-      "endDate": "Oct 2022"
+      "endDate": "Oct 2022",
+      "startDate": "Jan 2021"
     },
     {
       "highlights": [
-        "Collaboratively designed a Unity-based VR surgeon simulator as part of a three-member team.",
-        "Led the complete software development lifecycle and successfully deployed the project to 35 production Oculus Quest units."
-      ],
-      "company": "Medtronic",
-      "position": "Software Engineering Intern",
-      "location": "Minneapolis, MN",
-      "startDate": "Jun 2020",
-      "endDate": "Aug 2020"
-    },
-    {
-      "highlights": [
-        "Contributed to a collaborative effort in the development of an online legal tool, providing support to solos and small law firms to level the playing field in legal services."
-      ],
-      "company": "Thomson Reuters",
-      "position": "Software Engineering Intern",
-      "location": "Eagan, MN",
-      "startDate": "May 2019",
-      "endDate": "Jan 2020"
-    },
-    {
-      "highlights": [
-        "Instructed algorithm and data structure labs and conducted regular office hours to support students' learning."
+        "Conducted weekly labs and office hours for CSCI 1933: algorithms and data structures."
       ],
       "company": "University of Minnesota",
       "position": "Teaching Assistant",
@@ -105,29 +97,37 @@
     },
     {
       "keywords": [
-        "Docker, Jenkins, Nomad, Splunk, VictorOps, Grafana, Amplitude, Spinnaker"
+        "CloudWatch, Docker, Jenkins, Nomad, Splunk, Grafana, Amplitude"
       ],
       "name": "Operational Tooling"
     },
     {
       "keywords": [
-        "Git, Gitlab, Mocha, Chai, Jest, Artifactory"
+        "Lambda, Git, Gitlab, Mocha, Chai, Jest, Artifactory"
       ],
       "name": "Development Tooling"
     },
     {
       "keywords": [
-        "SQL"
+        "S3, DynamoDB, Athena, RDS, SQL"
       ],
-      "name": "Database Languages"
+      "name": "Databases"
     }
   ],
   "projects": [
     {
-      "name": "PR Cam",
+      "keywords": [
+        "Lambda, DyanmoDB, Webpack"
+      ],
+      "description": "Created a tool for authors to create, edit, read, and distribute their stories.",
+      "url": "https://github.com/sydneylin12/server-full-of-flowers",
+      "name": "Cloud Story Editor"
+    },
+    {
       "keywords": [
         "Swift, Apple Developer"
       ],
+      "name": "PR Cam",
       "description": "Created a revenue-generating iOS app for simultaneous video recording with music on the App Store.",
       "url": "https://github.com/sydneylin12/PR-Cam"
     }

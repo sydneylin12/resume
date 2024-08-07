@@ -21,52 +21,52 @@
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "Aug 2017",
-      "endDate": "Dec 2020",
-      "gpa": "3.77"
+      "endDate": "Dec 2020"
     }
   ],
   "work": [
     {
       "company": "Amazon Web Services (AWS)",
       "location": "Seattle, WA",
-      "position": "Software Development Engineer II",
+      "position": "Software Development Engineer 2",
       "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Mar 2024",
       "highlights": [
-        "Created an integration to enable data center technicians to audit inter-DC fiber data with over $4 million in potential operational savings.",
-        "Migrated 100% of legacy circuit data from RDS to S3, enabling the deprecation of a legacy service and eight supporting packages.",
-        "Modeled over 4,000 link hierarchies in a serverless integration which models leased optic fiber in an Amazon-owned database.",
-        "Quickly took ownership of the on-call rotation within 1.5 months, significantly alleviating operational load for a team of four.",
-        "Contributed to an internal AWS Networking service that serves as the source of truth for worldwide network information."
+        "Created an integration to enable DC technicians to audit fiber data with over $4 million in potential operational savings.",
+        "Migrated 100% of legacy circuit data from RDS to S3, enabling the deprecation of eight packages.",
+        "Modeled 2,400 link hierarchies in an integration between two teams, which creates leased optic fiber data in an Amazon-owned database.",
+        "Quickly took ownership of the on-call rotation within 1.5 months, alleviating operational load for a team of four.",
+        "Designed new features for an AWS Networking database that serves as the source of truth for 1.9 million network links worldwide.",
+        "Influenced the team's weekly operational review process by implementing automated ticket statistics, saving 30+ minutes per week of manual analysis."
       ],
       "endDate": "Present"
     },
     {
       "highlights": [
-        "Independently led the lifecycle of the CoreXM Dashboards 'table-of-contents,' enhancing navigation efficiency for over 10,000 active brands.",
-        "Reduced former customer data deletion KTLO by 100%, to zero minutes per week, by writing a CI/CD cleanup package.",
-        "Led a high-visibility project to improve adoption and enhance dashboard page visibility across all types of dashboards.",
+        "Planned and executed the delivery of the CoreXM Dashboards 'table-of-contents,' enhancing navigation efficiency for over 10,000 active brands.",
+        "Reduced legacy customer data deletion KTLO by 100% by crafting a scheduled cleanup package.",
+        "Collaborated with product and UX research teams to urgently improve dashboard adoption by enhancing page visibility across four types of dashboards.",
         "Drove the deprecation of a vulnerable service, reducing active customer brands from over 500 to 12.",
         "Eliminated on-call vulnerability triage time by automating security triage for over 100 tickets.",
         "Created an operational dashboard during a company-wide code yellow, reducing incident triage time by about 40%.",
         "Reduced the scale of a batched endpoint by dropping an average of 50% of unnecessary requests.",
-        "Contributed to multiple services in the Reporting org, enabling customers to tell a story with their survey data."
+        "Collaborated with three major teams in the Reporting org, enabling customers to tell better stories with different methods of reporting."
       ],
       "company": "Qualtrics",
-      "position": "Software Engineer II",
+      "position": "Software Engineer 2",
       "location": "Seattle, WA",
       "startDate": "Oct 2022",
       "endDate": "Mar 2024"
     },
     {
       "highlights": [
-        "Spearheaded development of Custom Metrics in a report editor, allowing customers to create 30 mathematical operations composed of up to 10 individual metrics.",
-        "Improved data deletion efficiency from multiple hours to 15 minutes per week with partial automation.",
-        "Mentored two engineers, including one intern, empowering them to work independently and achieve self-sufficiency within just one quarter.",
-        "Enhanced customer capabilities for second-level analysis by implementing display logic on three survey attributes and peer responses."
+        "Spearheaded the development of 'Custom Metrics' in a report editor, allowing customers to compute 30 equations composed of up to 10 individual survey metrics.",
+        "Improved data deletion efficiency from about three hours to 15 minutes per week with partial automation.",
+        "Mentored one full-time engineer and one intern, resulting in each fully onboarded and independent within one quarter.",
+        "Enhanced the survey data analysis experience by designing display logic on four different survey attributes."
       ],
       "company": "Qualtrics",
-      "position": "Software Engineer I",
+      "position": "Software Engineer 1",
       "location": "Seattle, WA",
       "endDate": "Oct 2022",
       "startDate": "Jan 2021"
@@ -86,20 +86,14 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": [
-        "TypeScript, JavaScript, Java, Python, SQL, HTML, Scala, Go"
-      ]
+      "keywords": ["TypeScript, JavaScript, Java, Python, SQL, HTML, Scala, Go"]
     },
     {
-      "keywords": [
-        "AWS CDK, React, Node.js, Express.js, Angular"
-      ],
+      "keywords": ["AWS CDK, React, Node.js, Express.js, Angular"],
       "name": "Frameworks"
     },
     {
-      "keywords": [
-        "Git, Brazil, Jenkins, NPM, Gradle, Postman, Webpack"
-      ],
+      "keywords": ["Git, Brazil, Jenkins, NPM, Gradle, Postman, Webpack"],
       "name": "Developer Tooling"
     },
     {
@@ -109,18 +103,20 @@
       "name": "Operational Tooling"
     },
     {
-      "keywords": [
-        "Lambda, SQS, SNS, Redis, Glue, API Gateway"
-      ],
+      "keywords": ["Lambda, SQS, SNS, Redis, Glue, API Gateway"],
       "name": "Distributed Technologies"
     },
     {
-      "keywords": [
-        "Amazon S3, DynamoDB, Athena, Amazon RDS"
-      ],
+      "keywords": ["Amazon S3, DynamoDB, Athena, Amazon RDS"],
       "name": "Databases"
     }
   ],
+  "projects": [
+    {
+      "keywords": [""]
+    }
+  ],
+  "awards": [],
   "sections": [
     "templates",
     "profile",

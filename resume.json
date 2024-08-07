@@ -3,14 +3,12 @@
   "headings": {
     "work": "Experience",
     "education": "Education",
-    "projects": "Projects",
-    "awards": "Activities and Leadership",
     "skills": "Skills"
   },
   "basics": {
     "name": "Sydney R. Lin",
     "email": "sydney.lin12@gmail.com",
-    "phone": "7859794932",
+    "phone": "(785) 979-4932",
     "location": {
       "address": "Seattle, WA"
     },
@@ -21,7 +19,7 @@
       "institution": "University of Minnesota, Twin Cities",
       "location": "Minneapolis, MN",
       "area": "Computer Science",
-      "studyType": "BS",
+      "studyType": "B.S.",
       "startDate": "Aug 2017",
       "endDate": "Dec 2020",
       "gpa": "3.77"
@@ -32,24 +30,27 @@
       "company": "Amazon Web Services (AWS)",
       "location": "Seattle, WA",
       "position": "Software Development Engineer II",
-      "website": "",
+      "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Mar 2024",
       "highlights": [
-        "Actively developed on a tier-1 internal tool which manages physical and virtual network link data.",
-        "Mitigated a critical data issue on missing link data by implementing an optimized traversal algorithm.",
-        "Quickly onboarded and participated in the weekly on-callrotation to alleviate operational load.",
-        "Contributed to an org-wide deprecation by migrating customer data from RDS to S3."
+        "Created an integration to enable data center technicians to audit inter-DC fiber data with over $4 million in potential operational savings.",
+        "Migrated 100% of legacy circuit data from RDS to S3, enabling the deprecation of a legacy service and eight supporting packages.",
+        "Modeled over 4,000 link hierarchies in a serverless integration which models leased optic fiber in an Amazon-owned database.",
+        "Quickly took ownership of the on-call rotation within 1.5 months, significantly alleviating operational load for a team of four.",
+        "Contributed to an internal AWS Networking service that serves as the source of truth for worldwide network information."
       ],
       "endDate": "Present"
     },
     {
       "highlights": [
-        "Contributed to deprecating a legacy dashboarding tool and launching critical React-based features.",
-        "Drove down data deletion KTLO minutes to 0 by seamlessly integrating into a CI/CD pipeline.",
-        "Led a high-visibility project to improve adoption and enhance dashboard navigation across all types of dashboards.",
-        "Championed an initiative to entirely deprecate a service afflicted with significant public information security vulnerability.",
-        "Engineered an operations dashboard during an engineering-wide code yellow, significantly improving response times to automated alerts.",
-        "Participated and presented in organization-wide design and Root Cause Analysis (RCA) reviews."
+        "Independently led the lifecycle of the CoreXM Dashboards 'table-of-contents,' enhancing navigation efficiency for over 10,000 active brands.",
+        "Reduced former customer data deletion KTLO by 100%, to zero minutes per week, by writing a CI/CD cleanup package.",
+        "Led a high-visibility project to improve adoption and enhance dashboard page visibility across all types of dashboards.",
+        "Drove the deprecation of a vulnerable service, reducing active customer brands from over 500 to 12.",
+        "Eliminated on-call vulnerability triage time by automating security triage for over 100 tickets.",
+        "Created an operational dashboard during a company-wide code yellow, reducing incident triage time by about 40%.",
+        "Reduced the scale of a batched endpoint by dropping an average of 50% of unnecessary requests.",
+        "Contributed to multiple services in the Reporting org, enabling customers to tell a story with their survey data."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer II",
@@ -59,10 +60,10 @@
     },
     {
       "highlights": [
-        "Spearheaded development of the 'Custom Metrics' feature, enabling users to apply mathematical operations on their survey reports..",
-        "Orchestrated cross-team collaboration, ensuring seamless communication and alignment, to drive the successful launch and approval of critical features.",
-        "Significantly optimized operational efficiency by partially automating a time-consuming data deletion process, reducing it to just 15-30 minutes of weekly maintenance.",
-        "Offered effective mentorship to two engineers, including one intern, empowering them to work independently and achieve self-sufficiency within just one quarter."
+        "Spearheaded development of Custom Metrics in a report editor, allowing customers to create 30 mathematical operations composed of up to 10 individual metrics.",
+        "Improved data deletion efficiency from multiple hours to 15 minutes per week with partial automation.",
+        "Mentored two engineers, including one intern, empowering them to work independently and achieve self-sufficiency within just one quarter.",
+        "Enhanced customer capabilities for second-level analysis by implementing display logic on three survey attributes and peer responses."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer I",
@@ -72,7 +73,7 @@
     },
     {
       "highlights": [
-        "Conducted weekly labs and office hours for CSCI 1933: algorithms and data structures."
+        "Conducted 32 weekly labs and office hours for CSCI 1933: Algorithms and Data Structures."
       ],
       "company": "University of Minnesota",
       "position": "Teaching Assistant",
@@ -86,58 +87,38 @@
       "name": "Programming Languages",
       "level": "",
       "keywords": [
-        "TypeScript, JavaScript, Java, C#, Python, Swift, HTML"
+        "TypeScript, JavaScript, Java, Python, SQL, HTML, Scala, Go"
       ]
     },
     {
       "keywords": [
-        "React, Node, Express, AngularJS"
+        "AWS CDK, React, Node.js, Express.js, Angular"
       ],
-      "name": "Web Frameworks"
+      "name": "Frameworks"
     },
     {
       "keywords": [
-        "CloudWatch, Docker, Jenkins, Nomad, Splunk, Grafana, Amplitude"
+        "Git, Brazil, Jenkins, NPM, Gradle, Postman, Webpack"
+      ],
+      "name": "Developer Tooling"
+    },
+    {
+      "keywords": [
+        "CloudWatch, EC2, Docker, Nomad, Splunk, Grafana, Amplitude"
       ],
       "name": "Operational Tooling"
     },
     {
       "keywords": [
-        "Lambda, Git, Gitlab, Mocha, Chai, Jest, Artifactory"
+        "Lambda, SQS, SNS, Redis, Glue, API Gateway"
       ],
-      "name": "Development Tooling"
+      "name": "Distributed Technologies"
     },
     {
       "keywords": [
-        "S3, DynamoDB, Athena, RDS, SQL"
+        "Amazon S3, DynamoDB, Athena, Amazon RDS"
       ],
       "name": "Databases"
-    }
-  ],
-  "projects": [
-    {
-      "keywords": [
-        "Lambda, DyanmoDB, Webpack"
-      ],
-      "description": "Created a tool for authors to create, edit, read, and distribute their stories.",
-      "url": "https://github.com/sydneylin12/server-full-of-flowers",
-      "name": "Cloud Story Editor"
-    },
-    {
-      "keywords": [
-        "Swift, Apple Developer"
-      ],
-      "name": "PR Cam",
-      "description": "Created a revenue-generating iOS app for simultaneous video recording with music on the App Store.",
-      "url": "https://github.com/sydneylin12/PR-Cam"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Personal Trainer",
-      "awarder": "University of Minnesota Recreation and Wellness",
-      "summary": "Provided personal training services for ten individual clients and led group training sessions for a group of eight participants.",
-      "date": "Aug 2019 - Aug 2020"
     }
   ],
   "sections": [

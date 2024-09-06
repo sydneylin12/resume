@@ -28,14 +28,14 @@
     {
       "company": "Amazon Web Services (AWS)",
       "location": "Seattle, WA",
-      "position": "Software Development Engineer 2",
+      "position": "Software Development Engineer II",
       "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Mar 2024",
       "highlights": [
-        "Created an integration to enable DC technicians to audit fiber data with over $4 million in potential operational savings.",
-        "Migrated 100% of legacy circuit data from RDS to S3, enabling the deprecation of eight packages.",
+        "Architected a workflow to enable data center technicians to audit fiber data with over $4 million in potential operational savings.",
+        "Seamlessly integrated a React-powered file upload widget into an AWS internal workflow engine, enhancing customer experience by ingesting data in a standard CSV format.",
         "Modeled 2,400 link hierarchies in an integration between two teams, which creates leased optic fiber data in an Amazon-owned database.",
-        "Quickly took ownership of the on-call rotation within 1.5 months, alleviating operational load for a team of four.",
+        "Quickly assumed on-call responsibilities within 1.5 months, alleviating ops load for a team of four.",
         "Designed new features for an AWS Networking database that serves as the source of truth for 1.9 million network links worldwide.",
         "Influenced the team's weekly operational review process by implementing automated ticket statistics, saving 30+ minutes per week of manual analysis."
       ],
@@ -48,12 +48,13 @@
         "Collaborated with product and UX research teams to urgently improve dashboard adoption by enhancing page visibility across four types of dashboards.",
         "Drove the deprecation of a vulnerable service, reducing active customer brands from over 500 to 12.",
         "Eliminated on-call vulnerability triage time by automating security triage for over 100 tickets.",
-        "Created an operational dashboard during a company-wide code yellow, reducing incident triage time by about 40%.",
+        "Created a central golden signals operational dashboard, reducing incident triage time by about 40%.",
         "Reduced the scale of a batched endpoint by dropping an average of 50% of unnecessary requests.",
-        "Collaborated with three major teams in the Reporting org, enabling customers to tell better stories with different methods of reporting."
+        "Optimized integration tests, reducing runtime by 30% and boosting the pass rate to over 90% by scaling the authentication process to a constant-time operation.",
+        "Partnered with three key teams in the Reporting organization, empowering customers to enhance their storytelling through diverse reporting methods."
       ],
       "company": "Qualtrics",
-      "position": "Software Engineer 2",
+      "position": "Software Engineer II",
       "location": "Seattle, WA",
       "startDate": "Oct 2022",
       "endDate": "Mar 2024"
@@ -66,34 +67,30 @@
         "Enhanced the survey data analysis experience by designing display logic on four different survey attributes."
       ],
       "company": "Qualtrics",
-      "position": "Software Engineer 1",
+      "position": "Software Engineer I",
       "location": "Seattle, WA",
       "endDate": "Oct 2022",
       "startDate": "Jan 2021"
-    },
-    {
-      "highlights": [
-        "Conducted 32 weekly labs and office hours for CSCI 1933: Algorithms and Data Structures."
-      ],
-      "company": "University of Minnesota",
-      "position": "Teaching Assistant",
-      "location": "Minneapolis, MN",
-      "startDate": "Jan 2019",
-      "endDate": "Jan 2020"
     }
   ],
   "skills": [
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": ["TypeScript, JavaScript, Java, Python, SQL, HTML, Scala, Go"]
+      "keywords": [
+        "TypeScript, JavaScript, Java, Python, SQL, HTML, CSS, XML, Scala, Go"
+      ]
     },
     {
-      "keywords": ["AWS CDK, React, Node.js, Express.js, Angular"],
-      "name": "Frameworks"
+      "keywords": [
+        "AWS CDK, React, Express, AngularJS, jQuery"
+      ],
+      "name": "Web Frameworks"
     },
     {
-      "keywords": ["Git, Brazil, Jenkins, NPM, Gradle, Postman, Webpack"],
+      "keywords": [
+        "Git, NodeJS, NPM, Jenkins, Gradle, Postman, Webpack"
+      ],
       "name": "Developer Tooling"
     },
     {
@@ -103,17 +100,29 @@
       "name": "Operational Tooling"
     },
     {
-      "keywords": ["Lambda, SQS, SNS, Redis, Glue, API Gateway"],
+      "keywords": [
+        "Lambda, SQS, SNS, Redis, Glue, API Gateway, LakeFormation"
+      ],
       "name": "Distributed Technologies"
     },
     {
-      "keywords": ["Amazon S3, DynamoDB, Athena, Amazon RDS"],
+      "keywords": [
+        "S3, DynamoDB, Athena, RDS, MongoDB"
+      ],
       "name": "Databases"
+    },
+    {
+      "keywords": [
+        "JUnit, Mockito, Mocha, Chai, Sinon, Jest, Karma, Selenium"
+      ],
+      "name": "Testing Libraries"
     }
   ],
   "projects": [
     {
-      "keywords": [""]
+      "keywords": [
+        ""
+      ]
     }
   ],
   "awards": [],

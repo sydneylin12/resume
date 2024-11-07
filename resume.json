@@ -26,6 +26,18 @@
   ],
   "work": [
     {
+      "company": "Flexport",
+      "location": "Bellevue, WA",
+      "position": "Software Engineer II",
+      "website": "https://www.linkedin.com/in/sydneylin12/",
+      "startDate": "Oct 2024",
+      "highlights": [
+        "Streamlined Flexport's operations in Asia by implementing a scalable, region-specific work item configuration for 11 tasks.",
+        null
+      ],
+      "endDate": "Present"
+    },
+    {
       "company": "Amazon Web Services (AWS)",
       "location": "Seattle, WA",
       "position": "Software Development Engineer II",
@@ -39,7 +51,7 @@
         "Designed new features for an AWS Networking database that serves as the source of truth for 1.9 million network links worldwide.",
         "Influenced the team's weekly operational review process by implementing automated ticket statistics, saving 30+ minutes per week of manual analysis."
       ],
-      "endDate": "Present"
+      "endDate": "Sep 2024"
     },
     {
       "highlights": [
@@ -63,8 +75,7 @@
       "highlights": [
         "Spearheaded the development of 'Custom Metrics' in a report editor, allowing customers to compute 30 equations composed of up to 10 individual survey metrics.",
         "Improved data deletion efficiency from about three hours to 15 minutes per week with partial automation.",
-        "Mentored one full-time engineer and one intern, resulting in each fully onboarded and independent within one quarter.",
-        "Enhanced the survey data analysis experience by designing display logic on four different survey attributes."
+        "Mentored a full-time engineer and an intern to full independence within one quarter."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer I",
@@ -89,7 +100,7 @@
     },
     {
       "keywords": [
-        "Git, NodeJS, NPM, Jenkins, Gradle, Postman, Webpack"
+        "Git, NodeJS, NPM, Jenkins, Gradle, Postman, Webpack, Bazel"
       ],
       "name": "Developer Tooling"
     },

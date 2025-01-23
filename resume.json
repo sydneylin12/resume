@@ -32,8 +32,9 @@
       "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Oct 2024",
       "highlights": [
-        "Streamlined Flexport's operations in Asia by implementing a scalable, region-specific work item configuration for 11 tasks.",
-        null
+        "Designed a generic automation framework to resolve work items by sending outbound chasing messages.",
+        "Led development on a container demurrage alert system, saving Flexport $50 per container daily by reducing shipment delays.",
+        "Streamlined Flexport's operations in Asia by implementing a scalable, region-specific work item configuration for 11 tasks."
       ],
       "endDate": "Present"
     },
@@ -47,7 +48,6 @@
         "Architected a workflow to enable data center technicians to audit fiber data with over $4 million in potential operational savings.",
         "Seamlessly integrated a React-powered file upload widget into an AWS internal workflow engine, enhancing customer experience by ingesting data in a standard CSV format.",
         "Modeled 2,400 link hierarchies in an integration between two teams, which creates leased optic fiber data in an Amazon-owned database.",
-        "Quickly assumed on-call responsibilities within 1.5 months, alleviating ops load for a team of four.",
         "Designed new features for an AWS Networking database that serves as the source of truth for 1.9 million network links worldwide.",
         "Influenced the team's weekly operational review process by implementing automated ticket statistics, saving 30+ minutes per week of manual analysis."
       ],
@@ -59,11 +59,9 @@
         "Reduced legacy customer data deletion KTLO by 100% by crafting a scheduled cleanup package.",
         "Collaborated with product and UX research teams to urgently improve dashboard adoption by enhancing page visibility across four types of dashboards.",
         "Drove the deprecation of a vulnerable service, reducing active customer brands from over 500 to 12.",
-        "Eliminated on-call vulnerability triage time by automating security triage for over 100 tickets.",
+        "Reduced on-call vulnerability ticket triage time by 100% through triaging automation and automatic patch version updates.",
         "Created a central golden signals operational dashboard, reducing incident triage time by about 40%.",
-        "Reduced the scale of a batched endpoint by dropping an average of 50% of unnecessary requests.",
-        "Optimized integration tests, reducing runtime by 30% and boosting the pass rate to over 90% by scaling the authentication process to a constant-time operation.",
-        "Partnered with three key teams in the Reporting organization, empowering customers to enhance their storytelling through diverse reporting methods."
+        "Optimized integration tests, reducing runtime by 30% and boosting the pass rate to over 90% by scaling the authentication process to a constant-time operation."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer II",
@@ -89,14 +87,14 @@
       "name": "Programming Languages",
       "level": "",
       "keywords": [
-        "TypeScript, JavaScript, Java, Python, SQL, HTML, CSS, XML, Scala, Go"
+        "TypeScript, JavaScript, Java, Python, HTML, CSS, Scala"
       ]
     },
     {
       "keywords": [
-        "AWS CDK, React, Express, AngularJS, jQuery"
+        "AWS CDK, React, Express, GraphQL, AngularJS, jQuery"
       ],
-      "name": "Web Frameworks"
+      "name": "Frameworks and Libraries"
     },
     {
       "keywords": [
@@ -106,15 +104,15 @@
     },
     {
       "keywords": [
-        "CloudWatch, EC2, Docker, Nomad, Splunk, Grafana, Amplitude"
+        "Docker, CloudWatch, EC2, Nomad, Splunk, Grafana, Amplitude"
       ],
-      "name": "Operational Tooling"
+      "name": "Cloud and Infrastructure"
     },
     {
       "keywords": [
         "Lambda, SQS, SNS, Redis, Glue, API Gateway, LakeFormation"
       ],
-      "name": "Distributed Technologies"
+      "name": "Distributed Systems"
     },
     {
       "keywords": [
@@ -129,21 +127,11 @@
       "name": "Testing Libraries"
     }
   ],
-  "projects": [
-    {
-      "keywords": [
-        ""
-      ]
-    }
-  ],
-  "awards": [],
   "sections": [
     "templates",
     "profile",
     "education",
     "work",
-    "skills",
-    "projects",
-    "awards"
+    "skills"
   ]
 }

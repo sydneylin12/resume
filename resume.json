@@ -32,8 +32,9 @@
       "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Oct 2024",
       "highlights": [
-        "Designed a generic automation framework to resolve work items by sending outbound chasing messages.",
-        "Led development on a container demurrage alert system, saving Flexport $50 per container daily by reducing shipment delays.",
+        "Designed a generic automation which enabled sending outbound messages via Slack, email, Flexport Messaging, and phone calls.",
+        "Enhanced operator efficiency by developing and deploying a fully automated state machine, streamlining over 1,000 work items in chasing tasks.",
+        "Spearheaded the development and implementation of a container demurrage alert system, driving operational efficiency and saving Flexport $50 per container daily by minimizing shipment delays.",
         "Streamlined Flexport's operations in Asia by implementing a scalable, region-specific work item configuration for 11 tasks."
       ],
       "endDate": "Present"
@@ -46,7 +47,6 @@
       "startDate": "Mar 2024",
       "highlights": [
         "Architected a workflow to enable data center technicians to audit fiber data with over $4 million in potential operational savings.",
-        "Seamlessly integrated a React-powered file upload widget into an AWS internal workflow engine, enhancing customer experience by ingesting data in a standard CSV format.",
         "Modeled 2,400 link hierarchies in an integration between two teams, which creates leased optic fiber data in an Amazon-owned database.",
         "Designed new features for an AWS Networking database that serves as the source of truth for 1.9 million network links worldwide.",
         "Influenced the team's weekly operational review process by implementing automated ticket statistics, saving 30+ minutes per week of manual analysis."
@@ -61,7 +61,7 @@
         "Drove the deprecation of a vulnerable service, reducing active customer brands from over 500 to 12.",
         "Reduced on-call vulnerability ticket triage time by 100% through triaging automation and automatic patch version updates.",
         "Created a central golden signals operational dashboard, reducing incident triage time by about 40%.",
-        "Optimized integration tests, reducing runtime by 30% and boosting the pass rate to over 90% by scaling the authentication process to a constant-time operation."
+        "Optimized integration tests, cutting runtime by 30% and increasing pass rates to over 90% with constant-time authentication."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer II",
@@ -71,9 +71,8 @@
     },
     {
       "highlights": [
-        "Spearheaded the development of 'Custom Metrics' in a report editor, allowing customers to compute 30 equations composed of up to 10 individual survey metrics.",
-        "Improved data deletion efficiency from about three hours to 15 minutes per week with partial automation.",
-        "Mentored a full-time engineer and an intern to full independence within one quarter."
+        "Spearheaded the development of 'Custom Metrics' in a report editor, allowing customers to compute 30 dynamic equations composed of up to 10 survey metrics.",
+        "Improved data deletion efficiency from about three hours to 15 minutes per week with partial automation."
       ],
       "company": "Qualtrics",
       "position": "Software Engineer I",

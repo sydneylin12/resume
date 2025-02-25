@@ -32,8 +32,8 @@
       "website": "https://www.linkedin.com/in/sydneylin12/",
       "startDate": "Oct 2024",
       "highlights": [
-        "Designed a generic automation which enabled sending outbound messages via Slack, email, Flexport Messaging, and phone calls.",
-        "Enhanced operator efficiency by developing and deploying a fully automated state machine, streamlining over 1,000 work items in chasing tasks.",
+        "Designed a scalable AWS-based messaging component enabling automated outbound communication across Slack, email, Flexport Messaging, and phone calls.",
+        "Led design and delivery of the 'input actual pickup' automated workflow, eliminating manual messaging for operators and streamlining over 1,000 tasks.",
         "Spearheaded the development and implementation of a container demurrage alert system, driving operational efficiency and saving Flexport $50 per container daily by minimizing shipment delays.",
         "Streamlined Flexport's operations in Asia by implementing a scalable, region-specific work item configuration for 11 tasks."
       ],

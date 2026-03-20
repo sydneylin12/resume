@@ -1,5 +1,4 @@
 # Resume
-![Latest Resume](resume.png)
 
 ## Editing - Manually
 1. https://latexresu.me
